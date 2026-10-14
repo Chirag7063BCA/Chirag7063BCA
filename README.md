@@ -1,32 +1,127 @@
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:6A0DAD,100:A855F7&height=220&section=header&text=CHIRAG%20TATHAN&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=17" width="100%" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Ideas+Into+Reality;React+%7C+Next.js+%7C+Node.js;Code.+Create.+Learn.+Repeat." alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Ideas+Into+Reality;Crafting+Modern+Web+Experiences;Code.+Create.+Learn.+Repeat." alt="Typing SVG" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-A855F7?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently-Learning-C084FC?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-6A0DAD?style=for-the-badge&logo=handshake&logoColor=white" />
 </div>
-# 💫 About Me:
-### Hey, I'm Chirag 👋<br><br>💻 Full Stack Developer | MERN Stack Enthusiast<br><br>I love turning ideas into clean, interactive, and meaningful web experiences. I build full-stack applications, explore modern technologies, and enjoy solving problems through code.<br><br>- 🚀 Currently pursuing MCA at Chitkara University<br>- ⚡ Working with React.js, Next.js, Node.js & MongoDB<br>- 🎨 Interested in modern UI/UX, animations & responsive design<br>- 🛠️ Building real-world projects and learning something new every day<br>- 🤝 Open to collaborating on exciting projects and developer opportunities<br><br>**Code. Create. Learn. Repeat.** ✨
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chiragtathan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chirag Tathan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chirag2005tathan@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Chirag7063BCA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Chirag7063BCA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chirag7063BCA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chirag7063BCA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chirag7063BCA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Chirag7063BCA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+<img align="right" alt="Coding Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### Hey, I'm Chirag Tathan 👋
+
+💻 **Full Stack Developer | MERN Stack Enthusiast**
+
+I'm passionate about building modern, interactive, and user-friendly web applications. I enjoy turning ideas into real-world projects, exploring new technologies, and creating digital experiences that combine functionality with great design.
+
+- 🎓 Pursuing MCA at Chitkara University
+- ⚡ Working with React.js, Next.js, Node.js & MongoDB
+- 🎨 Exploring modern UI/UX, animations & responsive design
+- 🔐 Interested in REST APIs, authentication & full-stack architecture
+- 🚀 Building real-world projects and improving my development skills
+- 🤝 Open to collaborations and developer opportunities
+
+<br clear="right"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Turning+Coffee+Into+Code+%E2%98%95;Building+Something+Awesome+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%E2%9C%A8" alt="Developer Mindset" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/chirag-tathan-7451972ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/chiragtathan">
+    <img src="https://img.shields.io/badge/Instagram-Follow-A855F7?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:chirag2005tathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-C084FC?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,vite,threejs,wordpress&theme=dark" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase&theme=dark" />
+</p>
+
+### 🧠 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,render&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chirag7063BCA&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Chirag7063BCA&theme=midnight-purple&hide_border=true" />
+  <br/><br/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag7063BCA&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chirag7063BCA&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+</div>
+
+---
+
+## 💡 Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag7063BCA&bg_color=0D0B14&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chirag7063BCA&label=PROFILE%20VIEWS&color=6A0DAD&style=for-the-badge" />
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:6A0DAD,100:A855F7&height=120&section=footer" width="100%" />
+
+  **✨ Code. Create. Learn. Repeat. ✨**
+</div>
