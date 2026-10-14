@@ -11,20 +11,7 @@
 </div>
 
 ---
-<style>
-.coding-gif {
-  width: 300px;
-  border-radius: 16px;
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
-}
-.coding-gif:hover {
-  box-shadow: 0 0 20px #a855f7, 0 0 40px #7e22ce;
-  transform: scale(1.03);
-}
-</style>
-
-<img class="coding-gif" src="https://raw.githubusercontent.com/Chirag7063BCA/Chirag7063BCA/main/download-ezgif.com-video-to-gif-converter.gif" alt="Coding Animation" />
-
+<img align="right" alt="Coding Animation" width="300" src="https://raw.githubusercontent.com/Chirag7063BCA/Chirag7063BCA/main/download-ezgif.com-video-to-gif-converter.gif" />
 ### Hey, I'm Chirag  👋
 
 💻 **Full Stack Developer | MERN Stack Enthusiast**
