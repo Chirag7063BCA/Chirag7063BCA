@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding Animation" width="300" src="https://cdn.discordapp.com/attachments/1559805620079566862/1559805695866441788/download.mp4?ex=6ad069c1&is=6acf1841&hm=fa8c1216b369f0327915812b2d6e03b8d560b54c8d9d486ecf2035f6eda49a77&" />
+<img align="right" alt="Coding Animation" width="300" src="https://s5.ezgif.com/tmp/ezgif-521786b51aa4b983.gif" />
 
 ## 💫 About Me
 
