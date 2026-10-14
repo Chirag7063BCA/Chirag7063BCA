@@ -127,9 +127,9 @@ I'm passionate about building modern, interactive, and user-friendly web applica
 
 ## 🐍 A Little Coding Fun
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
-</div>
+<a href="https://www.linkedin.com/in/chirag-tathan-7451972ba/">
+  <img src="https://img.shields.io/badge/Full_Stack_Dev-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="Full Stack Developer on LinkedIn" />
+</a>
 
 ---
 
