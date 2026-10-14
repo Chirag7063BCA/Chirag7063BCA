@@ -12,7 +12,7 @@
 
 ---
 
- <img align="right" alt="Coding Animation" width="300" src="https://s5.ezgif.com/tmp/ezgif-521786b51aa4b983.gif" />
+ <img align="right" alt="Coding Animation" width="300" src="https://raw.githubusercontent.com/Chirag7063BCA/Chirag7063BCA/main/assets/download-ezgif.com-video-to-gif-converter.gif" />
 
 ### Hey, I'm Chirag Tathan 👋
 
@@ -26,6 +26,8 @@ I'm passionate about building modern, interactive, and user-friendly web applica
 - 🚀 Building real-world projects
 
 <br clear="right" />
+
+
 
 
 
