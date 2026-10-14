@@ -11,22 +11,23 @@
 </div>
 
 ---
-
- <img align="right" alt="Coding Animation" width="300" src="https://github.com/Chirag7063BCA/Chirag7063BCA/blob/main/download-ezgif.com-video-to-gif-converter.gif
-  " />
+ <img align="right" alt="Coding Animation" width="300" src="https://raw.githubusercontent.com/Chirag7063BCA/Chirag7063BCA/main/download-ezgif.com-video-to-gif-converter.gif" />
 
 ### Hey, I'm Chirag Tathan 👋
 
 💻 **Full Stack Developer | MERN Stack Enthusiast**
 
-I'm passionate about building modern, interactive, and user-friendly web applications.
+I'm passionate about building modern, interactive, and user-friendly web applications. I enjoy turning ideas into real-world projects and creating digital experiences with clean design and smooth animations.
 
 - 🎓 Pursuing MCA at Chitkara University
 - ⚡ Working with React.js, Next.js, Node.js & MongoDB
-- 🎨 Exploring modern UI/UX and animations
-- 🚀 Building real-world projects
+- 🎨 Exploring modern UI/UX and responsive design
+- 🚀 Building real-world projects and learning every day
+- 🤝 Open to collaboration and developer opportunities
 
 <br clear="right" />
+
+
 
 
 
