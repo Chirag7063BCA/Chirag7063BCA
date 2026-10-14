@@ -148,8 +148,8 @@ I'm passionate about building modern, interactive, and user-friendly web applica
 
 <br/><br/>
 
- <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQG3y-xnjniETg/profile-displayphoto-crop_800_800/B56Z7fDeUiIUAI-/0/1781858692051?e=1793836800&v=beta&t=4UqWEr-IU0hl0Gmeogjs81ATAhF1hTx1rjze0mSzleU" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Chirag's Profile Photo" />
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQG3y-xnjniETg/profile-displayphoto-crop_800_800/B56Z7fDeUiIUAI-/0/1781858692051?e=1793836800&v=beta&t=4UqWEr-IU0hl0Gmeogjs81ATAhF1hTx1rjze0mSzleU" width="300" height="300" alt="Chirag's Profile Photo" />
 </div>
 
 
