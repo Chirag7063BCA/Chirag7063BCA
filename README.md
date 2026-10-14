@@ -3,11 +3,11 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Ideas+Into+Reality;Crafting+Modern+Web+Experiences;Code.+Create.+Learn.+Repeat." alt="Typing SVG" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-A855F7?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Currently-Learning-C084FC?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-6A0DAD?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-6A0DAD?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-A855F7?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-Opportunities-C084FC?style=for-the-badge&logo=handshake&logoColor=white" />
 </div>
 
 ---
@@ -84,44 +84,74 @@ I'm passionate about building modern, interactive, and user-friendly web applica
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chirag7063BCA&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Chirag7063BCA&theme=midnight-purple&hide_border=true" />
-  <br/><br/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag7063BCA&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chirag7063BCA&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
-</div>
-
----
-
-## 💡 Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag7063BCA&bg_color=0D0B14&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chirag7063BCA&label=PROFILE%20VIEWS&color=6A0DAD&style=for-the-badge" />
+  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=Chirag7063BCA&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" />
+  <img height="180" width="49%" src="https://streak-stats.demolab.com?user=Chirag7063BCA&theme=midnight-purple&hide_border=true" />
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:6A0DAD,100:A855F7&height=120&section=footer" width="100%" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag7063BCA&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+</div>
 
-  **✨ Code. Create. Learn. Repeat. ✨**
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Chirag7063BCA/Revadoo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag7063BCA&repo=Revadoo&theme=midnight-purple&hide_border=true" alt="Revadoo Project" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=550&lines=Building+Projects+That+Solve+Problems;From+Ideas+To+Working+Applications;Always+Creating+Something+New" alt="Project Journey" />
+</div>
+
+---
+
+## 🌌 My Developer Journey
+
+<div align="center">
+
+| 💜 | What I'm Focused On |
+|:---:|:---|
+| ⚛️ | Creating modern and responsive user interfaces |
+| ⚙️ | Developing full-stack applications and REST APIs |
+| 🔐 | Learning authentication and secure application design |
+| 🎨 | Exploring animations and interactive experiences |
+| 🚀 | Turning ideas into practical projects |
+
+</div>
+
+---
+
+## 🐍 A Little Coding Fun
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Keep+Building.;Keep+Exploring.;Keep+Growing." alt="Closing Animation" />
+
+**Let's build something amazing together.** ✨
+
+<a href="https://www.linkedin.com/in/chirag-tathan-7451972ba/">
+  <img src="https://img.shields.io/badge/Let's_Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Chirag7063BCA&label=PROFILE%20VIEWS&color=6A0DAD&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:6A0DAD,100:A855F7&height=120&section=footer" width="100%" />
+
+**✨ Code. Create. Learn. Repeat. ✨**
+
 </div>
