@@ -128,7 +128,7 @@ I'm passionate about building modern, interactive, and user-friendly web applica
 ## 🐍 A Little Coding Fun
 
 <a href="https://www.linkedin.com/in/chirag-tathan-7451972ba/">
-  <img src="https://img.shields.io/badge/Full_Stack_Dev-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="Full Stack Developer on LinkedIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=700&color=A855F7&center=false&vCenter=true&width=300&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Cool+Web+Apps" alt="Typing Animation" />
 </a>
 
 ---
