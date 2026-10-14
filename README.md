@@ -1,92 +1,32 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,100:FF6B00&height=200&section=header&text=CHIRAG%20TATHAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=16" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=FF6B00&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:6A0DAD,100:A855F7&height=220&section=header&text=CHIRAG%20TATHAN&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=17" width="100%" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Ideas+Into+Reality;React+%7C+Next.js+%7C+Node.js;Code.+Create.+Learn.+Repeat." alt="Typing SVG" />
 </div>
+# 💫 About Me:
+### Hey, I'm Chirag 👋<br><br>💻 Full Stack Developer | MERN Stack Enthusiast<br><br>I love turning ideas into clean, interactive, and meaningful web experiences. I build full-stack applications, explore modern technologies, and enjoy solving problems through code.<br><br>- 🚀 Currently pursuing MCA at Chitkara University<br>- ⚡ Working with React.js, Next.js, Node.js & MongoDB<br>- 🎨 Interested in modern UI/UX, animations & responsive design<br>- 🛠️ Building real-world projects and learning something new every day<br>- 🤝 Open to collaborating on exciting projects and developer opportunities<br><br>**Code. Create. Learn. Repeat.** ✨
 
-## `whoami` 👨‍💻
 
-```javascript
-const chirag = {
-  role: "Full Stack Developer",
-  education: "MCA @ Chitkara University",
-  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-  interests: ["Web Development", "UI/UX", "Animations"],
-  motto: "Code. Create. Learn. Repeat."
-};
-```
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chiragtathan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chirag Tathan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chirag2005tathan@gmail.com) 
 
-- 🚀 Building interactive, full-stack web applications
-- 🎨 Interested in clean UI, smooth animations, and great user experiences
-- 🤝 Open to developer opportunities and collaborations
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Chirag7063BCA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Chirag7063BCA&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chirag7063BCA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ⚙️ Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Chirag7063BCA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,figma&perline=9" alt="Technology stack" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 Featured Projects
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chirag7063BCA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🎮 Revadoo</h3>
-Gamified task and rewards platform with wallet tracking, authentication, rewards, and admin tools.
-<br/><br/>
-<strong>Stack:</strong> React · Node.js · Express · MongoDB · Stripe
-<br/><br/>
-<a href="https://revadoo-frontend.vercel.app/">Live Demo</a> · <a href="https://github.com/Chirag7063BCA/Revadoo">Repository</a>
-</td>
-<td width="50%" valign="top">
-<h3>💪 FitFlow</h3>
-Interactive AI fitness platform with muscle-group selection and personalized exercise recommendations.
-<br/><br/>
-<strong>Stack:</strong> Next.js · TypeScript · Tailwind CSS · Framer Motion
-<br/><br/>
-<a href="https://fit-flow-ai-gym-mentor.vercel.app/">Live Demo</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🎬 MyCinePass</h3>
-Movie ticket booking platform featuring showtimes, seat selection, and a complete booking flow.
-<br/><br/>
-<strong>Stack:</strong> MERN Stack
-<br/><br/>
-<a href="https://mycinepass.vercel.app/">Live Demo</a>
-</td>
-<td width="50%" valign="top">
-<h3>🧪 More in progress</h3>
-Exploring new technologies, improving existing projects, and building practical solutions.
-<br/><br/>
-<a href="https://github.com/Chirag7063BCA?tab=repositories">Explore my repositories →</a>
-</td>
-</tr>
-</table>
+---
+[![](https://komarev.com/ghpvc/?username=Chirag7063BCA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chirag7063BCA&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag7063BCA&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=FF6B00&text_color=FFFFFF" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Chirag7063BCA&hide_border=true&background=0B0B0F&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub streak" />
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/chirag-tathan-7451972ba"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/chiragtathan"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:chirag2005tathan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF6B00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Chirag7063BCA&style=flat&color=FF6B00&label=PROFILE+VISITORS" alt="Profile visitors" />
-  <br/><br/>
-  <i>"Great things are built one commit at a time."</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:0B0B0F&height=100&section=footer" width="100%" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
