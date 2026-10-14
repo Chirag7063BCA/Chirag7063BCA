@@ -13,7 +13,7 @@
 ---
  <img align="right" alt="Coding Animation" width="300" src="https://raw.githubusercontent.com/Chirag7063BCA/Chirag7063BCA/main/download-ezgif.com-video-to-gif-converter.gif" />
 
-### Hey, I'm Chirag Tathan 👋
+### Hey, I'm Chirag  👋
 
 💻 **Full Stack Developer | MERN Stack Enthusiast**
 
