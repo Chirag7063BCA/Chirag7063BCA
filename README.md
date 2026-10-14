@@ -12,24 +12,22 @@
 
 ---
 
-## 💫 About Me
-
-<img align="right" alt="Coding Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+ <img align="right" alt="Coding Animation" width="300" src="https://s5.ezgif.com/tmp/ezgif-521786b51aa4b983.gif" />
 
 ### Hey, I'm Chirag Tathan 👋
 
 💻 **Full Stack Developer | MERN Stack Enthusiast**
 
-I'm passionate about building modern, interactive, and user-friendly web applications. I enjoy turning ideas into real-world projects, exploring new technologies, and creating digital experiences that combine functionality with great design.
+I'm passionate about building modern, interactive, and user-friendly web applications.
 
 - 🎓 Pursuing MCA at Chitkara University
 - ⚡ Working with React.js, Next.js, Node.js & MongoDB
-- 🎨 Exploring modern UI/UX, animations & responsive design
-- 🔐 Interested in REST APIs, authentication & full-stack architecture
-- 🚀 Building real-world projects and improving my development skills
-- 🤝 Open to collaborations and developer opportunities
+- 🎨 Exploring modern UI/UX and animations
+- 🚀 Building real-world projects
 
-<br clear="right"/>
+<br clear="right" />
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Turning+Coffee+Into+Code+%E2%98%95;Building+Something+Awesome+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%E2%9C%A8" alt="Developer Mindset" />
