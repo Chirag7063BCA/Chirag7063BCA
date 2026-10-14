@@ -128,7 +128,7 @@ I'm passionate about building modern, interactive, and user-friendly web applica
 ## 🐍 A Little Coding Fun
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=500&color=A855F7&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AE+FULL+STACK+DEVELOPER+%F0%9F%91%BE;%F0%9F%9F%A3+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%F0%9F%91%BE;GAME+ON...+CODE+EAT+REPEAT" alt="Gaming Developer Animation" />
 </div>
 
 ---
