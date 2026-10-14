@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ### Hey, I'm Chirag Tathan 👋
 
